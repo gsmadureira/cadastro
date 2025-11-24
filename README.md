@@ -8,9 +8,7 @@ estoque e gerar gráficos informativos sobre os produtos.
 O sistema roda diretamente no terminal e utiliza banco de dados local
 (`estoque.db`) para armazenar todas as informações.
 
-**AVISO!!**
-Este sistema é uma **_ATIVIDADE AVALIATIVA_** proposta pela
-faculdade com o objetivo de desenvolver habilidades práticas em
+Este sistema tem o objetivo de desenvolver habilidades práticas em
 programação, banco de dados e lógica de sistemas, aplicando conceitos
 aprendidos em aula na construção de uma solução funcional para
 gerenciamento de estoque.
